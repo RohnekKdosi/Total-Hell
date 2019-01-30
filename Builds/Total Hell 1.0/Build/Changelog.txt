@@ -1,0 +1,3 @@
+Fixed the bug where player could win by waiting long enough after losing
+Added a quit button
+Added a manual

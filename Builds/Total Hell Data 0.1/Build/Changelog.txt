@@ -1,0 +1,3 @@
+Added 7 new characters
+Added 11 new projectiles
+Added settings for time, projectiles, bounciness

@@ -1,0 +1,7 @@
+RKBS Software
+Rohnek Kdosi - Idea, Code, Graphics (Pizza, Me), Scenes
+
+External Sources
+BlueSpark25 - Graphics (Arrows, Game Over screens, Start Button)
+Google Keyboard - Graphics (Rest of players and projectiles)
+Unity documentation - Code (Saving me whenever I got stucked)

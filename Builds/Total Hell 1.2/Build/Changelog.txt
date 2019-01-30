@@ -1,0 +1,5 @@
+Added PowerUps (Dynamite (Don't believe the text on it, it's not TNT, someone F-ed up), Shield)
+Added settings for PowerUp spawning
+Fixed a bug where the player would die before even being born (No, really, it said the time lasted was negative)
+Settings will now be cyclically connected meaning you can just click the lower button when on minimum parameter to set it to max
+Added a text telling you how many shields you have. One that tells you if a shield is active is considered now
